@@ -22,10 +22,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void onButton3Clicked(View v) {
-       // setContentView(R.layout.gravity);
-       // setContentView(R.layout.gravitytext01);
-       // setContentView(R.layout.gravitytext02);
-        setContentView(R.layout.gravitytext03);
+       setContentView(R.layout.gravity);
     }
 
     public void onButton4Clicked(View v) {
